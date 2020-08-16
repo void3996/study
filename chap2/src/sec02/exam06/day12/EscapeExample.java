@@ -7,7 +7,7 @@ public class EscapeExample {
 		System.out.print("행 단위 출력 \n");	//	\n은 줄 바꿈 의미이다
 		System.out.print("행 단위 출력 \r");	// \r은 캐리지 리턴이다
 		System.out.println("우리는 \"개발자\" 입니다.");	//	\"는 "를 출력한다
-		System.out.print("봄\\여름\\가을\\겨울");	//	
+		System.out.print("봄\\여름\\가을\\겨울");	//	\\를 입력하면 \ 가 출력된다.
 
 	}
 
