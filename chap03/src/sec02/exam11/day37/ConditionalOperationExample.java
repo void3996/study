@@ -15,7 +15,7 @@ public class ConditionalOperationExample {
 //		}else {
 //			grade = 'C';
 //		}
-		
+		 
 		System.out.println(score + "점은 " + grade +"등급입니다.");
 		
 		
