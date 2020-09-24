@@ -14,7 +14,7 @@ public class EnumWeekExample {
 		
 		switch (week) {
 		case 1:
-		 	today = Week.SUNDAY;	//열거 상수 대입
+		 	today = Week.SUNDAY;	//열거 상수 대입 
 			break;
 		case 2:
 			today = Week.MONDAY;
