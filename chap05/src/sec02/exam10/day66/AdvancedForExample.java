@@ -15,7 +15,7 @@ public class AdvancedForExample {
 //					 실행문(3)을 실행
 //					 블록 내부 실행문(3) 이 실행되면 다시 루프를 돌아 배열(1)에서 가져올 다음값이 존재하는지 평가
 //					 다음 항목이 존재하면 2->3->1 순서로 루프를 다시 진행하고 가져올 다음항목이 없으면 for문 종료
-//		}
+//		}			for문의 반복횟수는 배열의 항목 수
 		System.out.println("점수 총합 = " + sum);
 		
 		double avg = (double) sum / scores.length;
