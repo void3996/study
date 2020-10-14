@@ -7,12 +7,18 @@ public class Korean {
 	String name;
 	String ssn;
 	
-	public Korean(String n, String s) {
-		name = n;
-		ssn = s;
-
-	}
 	
+	/*//생성자
+	 * public Korean(String n, String s) { name = n; ssn = s;
+	 * 
+	 * }
+	 */
+	//this를 이용하여 Korean 생성자를 수정
+	public Korean(String name, String ssn) {
+		
+		this.name = name;
+		this.ssn = ssn;
+	}
 	
 	
 	
