@@ -2,7 +2,7 @@ package sec04.exam01.day76;
 
 public class Caculator {
 	
-	//method
+	//method 선언
 	void powerOn() {
 		System.out.println("전원을 켭니다.");
 	}
